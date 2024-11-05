@@ -1,1 +1,2 @@
 BLOG_APPLICATION/.env
+BLOG_APPLICATION/src/config/config.js

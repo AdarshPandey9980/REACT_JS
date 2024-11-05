@@ -96,6 +96,7 @@ export class Services {
       console.log("Appwrite service :: getFilePreview", error);
     }
   }
+
 }
 
 const services = new Services();
