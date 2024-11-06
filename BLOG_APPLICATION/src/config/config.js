@@ -16,4 +16,6 @@ const conf = {
     appwriteBucketId: String("6724faab0033c5e4092c")
 }
 
+
+
 export default conf
